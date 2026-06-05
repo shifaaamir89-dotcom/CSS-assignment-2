@@ -1,0 +1,21 @@
+body{background-color: lightpink;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h1{
+    color: rgba(100, 6, 100, 0.783);
+    font-size:50px;
+    text-transform:uppercase;
+    text-decoration:underline;
+    text-shadow:2px 2px 5px rgb(44, 44, 44);
+    text-indent: 250px;
+}
+
+p{
+    font-size: 20px;
+}
+h2{text-shadow:
+  1px 1px 2px rgb(210, 163, 210),
+  0 0 1em black,
+  0 0 0.2em black;}
+
+ol{font-size: 20px;
+ text-indent:  40px; ;}
